@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatrickX14
+- 👋 Hi, I’m @Patrick
 - 👀 I’m interested in Full-Stack Devoloping
 - 🌱 I’m currently learning Javascript, PHP and Python
 - 💞️ I’m looking to collaborate on ...
