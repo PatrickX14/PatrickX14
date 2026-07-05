@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrickX14
-- 👀 I’m interested in Full-Stack Devoloping
+- 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
